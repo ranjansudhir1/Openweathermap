@@ -1,0 +1,15 @@
+This app developed to show the Weather updated for every 2 hour period, This App designed as MVP with followed by repository pattern.
+API Used: http://openweathermap.org/
+For testing purpose we are fetching water updated for the below details:
+ZIP code : 94040
+Location : US
+REST Client used here : Retrofit
+Design Patterns used here : MVP
+For periodic call app used Work Manager.
+Added Test case for MyPresenter.
+
+Upcoming Release Notes:
+1.App future release we need to enhance the UI as per the UAT feedback.
+2.Need to show some more information about the weather.
+3.In upcoming release will provide option to select his/her location to get the weather update.
+3.Need to achieve 100% test case coverage for all the testable class.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenWeatherMap</string>
+    <string name="lat_lon">Lat Lon</string>
+    <string name="weather_description">Weather Description</string>
+</resources>
